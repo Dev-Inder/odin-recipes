@@ -7,7 +7,7 @@ body {
 
 .link-style {
     color: #333;
-    border-bottom: 4px solid;
+    border: 4px solid;
     padding: 10px;
     text-decoration: none;
     font-weight: bolder;
