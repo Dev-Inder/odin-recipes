@@ -13,21 +13,20 @@ body {
     font-weight: bolder;
 }
 
-.recipe-link {
-    display: inline-block;
-    margin: 20px;
-}
+.recipe-container {
+    display: flex;
+    justify-content: center;
+    }
 
-.recipe-link img {
+.recipe-container img {
     width: 500px;
     height: 400px;
     transition: transform 0.3s ease;
 }
 
-.recipe-link img:hover{
+.recipe-container img:hover{
     transform: scale(1.1);
 }
-
 
 h1 {
     font-size: 40px;

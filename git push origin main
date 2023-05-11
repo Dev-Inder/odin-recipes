@@ -1,0 +1,131 @@
+[33mcommit 6b53cbf92a39d3951bc827734a7f7d5316ffa417[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Tue May 9 11:27:37 2023 -0400
+
+    Added title "Odin Recipes" to index.html
+
+[33mcommit ec2b75ec4ed747647ec1d9d8d23c9a1af17083b6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Tue May 9 11:24:42 2023 -0400
+
+    Added border to recipe names on index.html
+
+[33mcommit 5cff67b8f43361d8bd827b949357e26fadae6e9a[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Mon May 8 13:22:37 2023 -0400
+
+    Added images to index.html
+
+[33mcommit 26e4476f5a9ae648ba1d147dcf653b2b4b6a3adb[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu May 4 20:30:04 2023 -0400
+
+    Added CSS styling to HTML pages
+
+[33mcommit eba4afece8bc88448fcfa8d13211856cc938ff29[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:14:57 2023 -0400
+
+    Added spacing between the recipe steps
+
+[33mcommit 302e4e4a7c60530cb7f6bc863475efc16df39229[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:12:55 2023 -0400
+
+    Added spacing between the steps/ingredients
+
+[33mcommit 737f2fae8268c7b5fcabbfd95eceac124ff6649a[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:11:38 2023 -0400
+
+    Added max-width & margin-bottom
+
+[33mcommit 5d1484044b9e7118db8a350dc2df88971d0bfd98[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:04:06 2023 -0400
+
+    Added max-width to paneer.html
+
+[33mcommit 23a81fb0ee34b456251a7333c128cd122e01b613[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:02:17 2023 -0400
+
+    used image in cookies.html
+
+[33mcommit cf1936920cbf249c478a9b6e2b6c71e410436c6c[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 16:01:42 2023 -0400
+
+    Added image & how to make recipe
+
+[33mcommit d6970128c481b14d9b07f951ac4e76a37f98bbbf[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:46:21 2023 -0400
+
+    Referenced 3rd recipe in index.html
+
+[33mcommit a844ea0ad39470bc77e0b15741025798bfca5292[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:44:45 2023 -0400
+
+    added heading with 3rd recipe name
+
+[33mcommit 91e9b8e0a87cd76c2b976a7788da03ab137ef886[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:41:33 2023 -0400
+
+    Added description, ingredients, & steps to prepare
+
+[33mcommit b064b0fb02cfc5832b11c7ca77198df0857652e7[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:14:43 2023 -0400
+
+    Added 2nd recipe page to index.html
+
+[33mcommit a38a48774481c5ccfd5f202242932886f6d8d8ca[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:13:47 2023 -0400
+
+    Added image of recipe to paneer.html
+
+[33mcommit cdae4bc4a4b5fc42d073523af4bf6202ce73b073[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 15:13:04 2023 -0400
+
+    Added image and recipe title
+
+[33mcommit 957b552cba6ee8cf9ae58613ea02e02e5399c1bb[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 14:44:43 2023 -0400
+
+    Added sicilian pizza image to sicilianpizza.html
+
+[33mcommit c964a2a7ec01e9f06d60ca1ea0e3613adeba4515[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 14:43:28 2023 -0400
+
+    Added image, description, ingredients, & steps
+
+[33mcommit 170636eec75b46ba9d65a5db9a4fa963c5494d8c[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 12:47:43 2023 -0400
+
+    added first recipe link to index.html.
+
+[33mcommit 6b6c5bd1f102effe5e07f24ea6d672f8067d9077[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 12:42:23 2023 -0400
+
+    Create Recipes folder and added first recipe html
+
+[33mcommit 370390e5a56110650adf360d376097c1e758180e[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 12:38:21 2023 -0400
+
+    Added project details to README.MD
+
+[33mcommit ece473617f59bec4fee786a14686be7d764479c8[m
+Author: Dev-Inder <131315109+Dev-Inder@users.noreply.github.com>
+Date:   Thu Apr 27 12:06:19 2023 -0400
+
+    Initial commit
