@@ -1,14 +1,23 @@
-
 body {
     background-color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.link-style {
+.link-style-image,
+.link-style-text {
     color: #333;
     border: 4px solid;
+}
+
+.link-style-image {
     padding: 20px;
-    font-weight: bolder;
+}
+
+.link-style-text {
+    margin-top: 16px;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 .index-container {
@@ -75,7 +84,3 @@ ul {
 li {
     margin-bottom: 10px;
   }
-
-
-
-
