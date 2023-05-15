@@ -1,3 +1,4 @@
+
 body {
     background-color: blanchedalmond;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -10,11 +11,17 @@ body {
 }
 
 .link-style-image {
-    padding: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    margin: -2px;
 }
 
+
 .link-style-text {
-    margin-top: 16px;
+    margin-top: 12px;
+    margin-bottom: 8px;
     padding: 20px;
     font-weight: bold;
     font-size: 20px;
@@ -22,6 +29,7 @@ body {
 
 .index-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     text-align: center;
     }
@@ -34,7 +42,7 @@ body {
 }
 
 .index-container img:hover{
-    transform: scale(1.1);
+    transform: scale(1.08);
 }
 
 .recipe-container {
