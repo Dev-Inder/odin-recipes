@@ -45,12 +45,6 @@ body {
     transform: scale(1.08);
 }
 
-.recipe-container {
-    display: flex ;
-    flex-direction: column;
-    align-items: center;
-}
-
 h1 {
     font-size: 40px;
     font-weight: bold;
@@ -58,37 +52,221 @@ h1 {
     text-align: center;
 }
 
-.paneer-img {
-    transform: rotate(90deg);
-    margin-left: 150px;
-    margin-top: -150px;
-    margin-bottom: -150px;
-    margin-right: 150px;
+
+.recipe-container {
+    display: flex ;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap; 
 }
 
-.ingredients-note {
+.recipe-heading-container {
+    border: 6px solid black;
+}
+
+.paneer-heading,
+.pizza-heading,
+.cookies-heading {
+    font-size: 60px;
+    margin: 5px;
+    padding: 0;
+}
+
+
+.pizza-heading {
+    padding-left: 90px;
+}
+
+.cookies-heading {
+    padding-left: 10px;
+}
+
+
+.img-des-container {
+    display: flex;
+    padding-top: 20px;
+}
+
+.paneer-img-container {
+    transform: rotate(90deg);
+    margin-left: 114px;
+    margin-top: -145px;
+    margin-bottom: -125px;
+    margin-right: 126px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.pizza-img-container,
+.cookies-img-container {
+    margin-top: -10px;
+    margin-bottom: 5px; 
+}
+
+.paneer-image  {
+    height: 705px;
+    width: 456px;
+}
+
+.pizza-image,
+.cookies-image {
+    height: 370px;
+    width: 598px;
+}
+
+
+.paneer-image,
+.pizza-image,
+.cookies-image {
+    border-radius: 15px;
+}
+
+.paneer-des-container {
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-top:-12px;
+    width:100%;
+    padding-left: 5px;
+    line-height: 2;   
+}
+
+.pizza-des-container {
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-top:-12px;
+    width:100%;
+    padding-left: 5px;
+    line-height: 2;   
+}
+
+.cookies-des-container {
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-top:-12px;
+    width:100%;
+    padding-left: 5px;
+    line-height: 2;   
+}
+
+.recipe-des {
+    max-width: 1000px;
+    font-size: 20px;
+    margin-top: -8px;
+}
+
+.ingred-steps-container {
+    display: flex;
+}
+
+.paneer-ingred,
+.pizza-ingred,
+.cookies-ingred {
+    text-align: center;
+    margin-left: 2px;
+}
+
+.pizza-ingred {
+    margin-right: 4px;
+    font-size: 16px;
+    width: 32.5%;
+}
+
+.paneer-ingred {
+    font-size: 18px;
+}
+
+.cookies-ingred {
+    margin-right: 4px;
+    font-size: 16px;
+    width: 32.5%;
+}
+
+
+.ingred-note {
     padding-top: 20px;
     font-style: italic;
-}
-
-p{
+    text-align: left;
+    padding-left: 3px;
     max-width: 700px;
     margin-top: -8px;
 }
 
-ol,
-ul {
+.paneer-ingred ul,
+.pizza-ingred ul,
+.cookies-ingred ul {
+    text-align: left;
+    margin: auto;
+    line-height: 2;
+    max-width: 400px;
+    padding-left: 100px;
+}
+
+
+.paneer-steps {
+    margin-top: 0px;
+    margin-left: 8px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 65.5%;
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+.pizza-steps {
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 70%;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+.cookies-steps {
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    width: 70%;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+
+.paneer-steps ol,
+.pizza-steps ol,
+.cookies-steps ol{
+
+    line-height: 2;
+}
+
+.paneer-ingred,
+.paneer-steps,
+.pizza-steps,
+.pizza-ingred,
+.cookies-steps,
+.cookies-ingred,
+.paneer-des-container,
+.pizza-des-container,
+.cookies-des-container {
+    border: 2.5px solid black; 
+    border-radius: 15px;
+    
+}
+
+.paneer-ingred ul,
+.pizza-ingred ul {
+    
     margin-top: -8px;
+}
+
+
+.paneer-steps ol,
+.pizza-steps ol {
+    margin-top: -12px;
 }
 
 ol {
-    max-width: 700px;
+    max-width: 950px;
   }
 
-ul {
-    max-width: 300px;
-}
-  
-li {
-    margin-bottom: 10px;
-  }
