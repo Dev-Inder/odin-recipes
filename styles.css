@@ -55,9 +55,7 @@ h1 {
 
 .recipe-container {
     display: flex ;
-    justify-content: space-between;
     flex-direction: column;
-    flex-wrap: wrap; 
 }
 
 .recipe-heading-container {
@@ -172,7 +170,7 @@ h1 {
 }
 
 .paneer-ingred {
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .cookies-ingred {
@@ -209,7 +207,7 @@ h1 {
     margin-right: 0px;
     width: 65.5%;
     padding-left: 5px;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .pizza-steps {
