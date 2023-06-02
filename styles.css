@@ -86,12 +86,10 @@ h1 {
 }
 
 .paneer-img-container {
-    transform: rotate(90deg);
     margin-left: 114px;
     margin-top: -145px;
     margin-bottom: -125px;
     margin-right: 126px;
-    border-radius: 15px;
     padding: 10px;
 }
 
@@ -104,6 +102,9 @@ h1 {
 .paneer-image  {
     height: 705px;
     width: 456px;
+    border-radius: 15px;
+    transform: rotate(90deg);
+
 }
 
 .pizza-image,
